@@ -53,9 +53,9 @@ The repository contains no `sorry`, `admit`, `native_decide` or added axioms.
 ## Attribution
 
 * **Mathematics.** The negative answer and the construction are due to **Barnabás Janzer,
-  Richard Steiner and Benny Sudakov**: *Chromatic number and regular subgraphs*,
-  [arXiv:2410.02437](https://arxiv.org/abs/2410.02437) (2024). They build a random layered graph
-  with large chromatic number and no 4-regular subgraph.
+  Raphael Steiner and Benny Sudakov**: *Chromatic number and regular subgraphs*,
+  [arXiv:2410.02437](https://arxiv.org/abs/2410.02437) (2024), Theorem 1.2. They build a random
+  layered graph with large chromatic number and no 4-regular subgraph.
 * **Formalization.** Written by the owner of this repository (GitHub account `firesh`). The
   probabilistic part of the argument is replaced by exact counting over the finite set of all
   configurations: each bad event is shown to contain at most a quarter of them. Layer sizes and
